@@ -1,0 +1,17 @@
+{
+	"bezeichnungLang": "llp-frontend",
+	"version": "1.0.0",
+	"type": "module",
+	"scripts": {
+		"scss": "sass styles/charite.scss charite.css"
+	},
+	"dependencies": {
+		"bootstrap": "^5.2"
+	},
+	"devDependencies": {
+		"sass": "^1.55.0"
+	},
+	"browserslist": [
+		"since 2017-06"
+	]
+}
